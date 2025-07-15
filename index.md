@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <b>Geomatics Engineer | Researcher | Drone & LiDAR Enthusiast | GIS Developer</b>
+  <b> Water Resource Engineering |Geomatics Engineer | Hydrology | Drone & LiDAR Enthusiast | GIS </b>
 </p>
 
 ---
@@ -15,8 +15,23 @@
 🌏 Former Geomatics Engineer at GeoThreeDModelling Pvt. Ltd., Nepal  
 🛰️ Passionate about LiDAR, UAVs, GIS, disaster management, and remote sensing  
 🧠 Experienced in surveying, spatial data processing, and urban planning  
-💬 Skilled in Python, R, JavaScript, HTML/CSS, PostgreSQL, ArcGIS, QGIS, Pix4D, Agisoft  
+💬 Skilled in Python, JavaScript, HTML/CSS, ArcGIS, QGIS, Pix4D, Agisoft  
 🌱 Currently learning: HPC, geospatial modeling, AI for Earth  
+
+---
+### 📚 Education
+
+**🎓 Jackson State University**, USA  
+*MS in Civil Engineering* — *Jan 2025 – Present*  
+Graduate Research Assistant, specializing in hydrology and geospatial modeling.
+
+**🎓 Tribhuvan University, Pashchimanchal Campus**, Pokhara, Nepal  
+*Bachelor in Geomatics Engineering* — *Nov 2018 – Apr 2023*  
+Percentage: 76.38% — Thesis on geospatial tourism prediction in Pokhara
+
+**🏫 Premier College**, Kathmandu, Nepal  
+*Higher Secondary Education (Science)* — *Apr 2016 – Mar 2018*  
+CGPA: 3.58/4
 
 ---
 
@@ -60,18 +75,6 @@
 - GIS for Climate Action, Cartography, Spatial Analysis – ESRI  
 - GNSS, DGPS, Terrestrial LiDAR – CSSGS, The University of Tokyo  
 - WebGIS, QGIS – GESAN  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aashishgautam&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishgautam&layout=compact&theme=radical" />
-</p>
 
 ---
 

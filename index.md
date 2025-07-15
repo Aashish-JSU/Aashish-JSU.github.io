@@ -77,7 +77,6 @@ CGPA: 3.58/4
 - WebGIS, QGIS – GESAN  
 
 ---
-### 🎖️ Licenses & Registrations
 
 ### 🎖️ Licenses & Registrations
 

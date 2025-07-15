@@ -77,7 +77,21 @@ CGPA: 3.58/4
 - WebGIS, QGIS – GESAN  
 
 ---
+### 🎖️ Licenses & Registrations
 
+### 🎖️ Licenses & Registrations
+
+- 🛩️ **Remote Pilot Certificate – sUAS (FAA Part 107)**  
+  *Federal Aviation Administration (USA)*  
+  *Issued: Jun 2025 | Expires: Jun 2027*  
+  **Skills:** Drone Piloting · Aerial Surveys · Federal Aviation Regulations
+
+- 🛠️ **Registered Geomatics Engineer**  
+  *Nepal Engineering Council*  
+  *Issued: Dec 2023*  
+
+
+---
 ### 📫 Contact Me
 
 📧 Email: aashish.gautam@students.jsums.edu  
